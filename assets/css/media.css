@@ -1,4 +1,4 @@
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 544px) {
 	.result_summary-card {
 		grid-template-columns: 1fr;
 		width: 20rem;
