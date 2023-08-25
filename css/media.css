@@ -1,0 +1,52 @@
+@media screen and (max-width: 544px) {
+	.result_summary-card {
+		grid-template-columns: 1fr;
+		width: 20rem;
+		height: auto;
+		margin-top: 1rem;
+		border-top: none;
+	}
+	.card_rating {
+		border-top-left-radius: 0;
+		border-top-right-radius: 0;
+	}
+	.card_heading {
+		font-size: 1rem;
+		letter-spacing: none;
+		margin-bottom: 1rem;
+	}
+	.card_score {
+		font-size: 15px;
+		color: hsla(225, 80%, 98%, 0.628);
+		width: 9rem;
+	}
+	.card_score span {
+		font-size: 4rem;
+	}
+	.ranking-grid {
+		margin-top: 1rem;
+	}
+	.card_rank {
+		font-size: 1.5rem;
+		font-weight: 500;
+	}
+	.card_ranking-pre {
+		font-size: 0.91rem;
+		color: hsla(225, 80%, 98%, 0.628);
+	}
+	.section_title {
+		font-size: 1rem;
+	}
+	.icons {
+		width: 0.9rem;
+	}
+	.summary-item_title {
+		font-size: 0.8rem;
+	}
+	.summary_score {
+		font-size: 0.8rem;
+	}
+	.continue_button {
+		font-size: 0.7rem;
+	}
+}
